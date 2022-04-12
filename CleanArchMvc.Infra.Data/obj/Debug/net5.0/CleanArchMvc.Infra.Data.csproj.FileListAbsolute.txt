@@ -10,3 +10,9 @@ C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchM
 C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\refint\CleanArchMvc.Infra.Data.dll
 C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
 C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
+C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.dev.json
+C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.csproj.CopyComplete
+C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
