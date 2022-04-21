@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BwY7KEoDu/BmHzPINtP7HEIV3sIHWKZRRenjIf9URUQDTNq8bbByZQg+c/zjbhWHsKD3f6qWsrarbdBOo4lwDw==",
+  "dgSpecHash": "Sa5QtZbNbXv/owNT8AKynpHXS4E8u+Rc01hTDFtKDjVtqMcQo9KZoNzffS/WmTzbtogoTixOjT0lDAsLg5NP1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\diego.p.campos\\Desktop\\estudos\\Curso Clean Arch\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\diego.p.campos\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
