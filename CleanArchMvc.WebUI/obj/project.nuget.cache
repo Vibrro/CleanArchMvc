@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nuf3es5TQXrkOkZjbOqE2ouo3q6PQmkUgHr3TfAZPTzXas1NOdGBszj6Wy+J+PPVzUH1XYqgQm9EyzbVZid1dQ==",
+  "dgSpecHash": "9lqJSCLaFSH09Jpxxb7OMfvXYBOA2Gxxon/zV9ApWPSsdS7tcgTIQ2UtNyq0TTt9KR3YAGID9GUQ+0QO5zLqEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\diego.p.campos\\Desktop\\estudos\\Curso Clean Arch\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\diego.p.campos\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.13\\microsoft.aspnetcore.mvc.razor.extensions.5.0.13.nupkg.sha512",
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.13\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.13.nupkg.sha512",
     "C:\\Users\\diego.p.campos\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.13\\microsoft.aspnetcore.razor.language.5.0.13.nupkg.sha512",
