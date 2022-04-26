@@ -400,3 +400,5 @@ C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchM
 C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
 C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\diego.p.campos\Desktop\estudos\Curso Clean Arch\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
